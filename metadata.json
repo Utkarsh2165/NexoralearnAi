@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Learn AI",
+  "description": "Premium all-in-one AI study platform with intelligent tutoring, quiz generator, personalized study roadmap, math lab, flashcards, and gamified progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
